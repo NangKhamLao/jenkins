@@ -1,0 +1,1 @@
+{"uuid":"ae217f7e-bda3-4664-804c-92191c2da6b6","name":"ecommerce.LoginTest.setup","children":["0a7192ef-a383-4f22-b463-db35bd0ec08e"],"description":"","befores":[{"name":"setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1723346305306,"stop":1723346306767}],"afters":[],"start":1723346305306,"stop":1723346306767}

@@ -1,0 +1,1 @@
+{"uuid":"330011f2-e9d8-4008-809b-f4ee7e18c611","name":"ecommerce.LoginTest.teardown","children":["1074c716-c47c-458d-a82d-e69ce7640e00"],"description":"","befores":[],"afters":[{"name":"teardown","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1723346305204,"stop":1723346305305}],"start":1723346305203,"stop":1723346305305}

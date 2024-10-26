@@ -1,0 +1,1 @@
+{"uuid":"a96d3135-dd48-4113-914a-d06b1a44e2e9","name":"ecommerce.dataProDemo.setUp","children":["06392a96-e001-42b3-9c09-16b3bd968c57"],"description":"","befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1727499894325,"stop":1727499899078}],"afters":[],"start":1727499894325,"stop":1727499899078}
